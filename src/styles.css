@@ -15,7 +15,7 @@ body{
 }
 .cont-todo-list{
     width: 620px;
-    height: 820px;
+    height: 90%;
     background-color: rgb(42, 42, 42);
     border-radius: 30px;
     box-shadow: 22px 22px 42px -7px rgb(49, 49, 49);
